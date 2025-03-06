@@ -5,9 +5,10 @@ authors = ["Yongshuo Chen <yongshuo4@gmail.com>"]
 edition = "2024"
 license = "MIT"
 description = "A Rust drawing library focus on data parsing of ab init software"
-repository = 
+repository = "https://github.com/foranewlife/formatonic"
 
 
 [dependencies]
 pest = "2.5"
 pest_derive = "2.5"
+xml = "0.8.20"

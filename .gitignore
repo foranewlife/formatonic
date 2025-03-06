@@ -1,1 +1,48 @@
+# Ignore compiled files
 /target
+**/*.rs.bk
+
+# Ignore Cargo's cache and lock files
+Cargo.lock
+
+# Ignore IDE configuration files
+.vscode
+.idea
+
+# Ignore Rust build cache
+/.cargo
+/.rustup
+
+# Ignore local development environment files
+.env
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore Windows Thumbs.db files
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore test coverage files
+/coverage
+
+# Ignore binary files (if any)
+/bin
+
+# Ignore locally generated documentation
+/doc
+
+# Ignore Rust compilation cache
+/.cargo/registry
+/.cargo/git
+
+# Ignore personal development tool configurations
+/.idea
