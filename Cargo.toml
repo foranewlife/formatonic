@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Yongshuo Chen <yongshuo4@gmail.com>"]
 edition = "2024"
 license = "MIT"
-description = "A Rust drawing library focus on data parsing of ab init software"
+description = "A Rust library focus on data parsing of ab init software"
 repository = "https://github.com/foranewlife/formatonic"
 
 
